@@ -9,6 +9,9 @@
 - **Bases de Datos**: SQLserver
 - **Herramientas**: SQLserver, Visual Studio Code, Visual Studio, Access, Excel, Word etc.
 
+
+![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
   
 
 <!---
