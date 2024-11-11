@@ -1,5 +1,6 @@
 <h1 align="center">🌌 Bienvenidos al Universo de HEATTHEW 🌌</h1>
-Soy Heather Rubí, estudiante de informática con pasión por las bases de datos, el desarrollo de sitios web y las aplicaciones. ¡Exploradora en el mundo del código y siempre buscando nuevas fronteras! 🚀
+Soy Heather Rubí, tengo 15 años y actualmente estoy cursando el Bachillerato. Me estoy formando como Técnica Profesional en Informática. 
+¡Exploradora en el mundo del código y siempre buscando nuevas fronteras! 🚀
 
 ---
 
