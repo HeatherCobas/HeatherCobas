@@ -14,8 +14,8 @@ Soy Heather Rubí, estudiante de informática con pasión por las bases de datos
 ---
 
 ### 🌠 Estadísticas de la Nave
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=midnight-purple)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeatherCobas&show_icons=true&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeatherCobas&layout=compact&theme=midnight-purple)
 
 ---
 
