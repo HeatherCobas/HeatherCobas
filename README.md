@@ -10,7 +10,7 @@
 - **Herramientas**: SQLserver, Visual Studio Code, Visual Studio, Access, Excel, Word etc.
 
 
-![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?)
 
   
 
