@@ -1,4 +1,4 @@
-# Hola, soy Heather Rubí Cobas Pion 👋
+# Hola, soy Heather 👋
 
 💻 Estudiante de Bachillerato en el área de Informática  
 🌱 Actualmente aprendiendo sobre desarrollo de aplicaciones de escritorio  
