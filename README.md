@@ -1,16 +1,35 @@
-# Hola, soy Heather 👋
+![Banner](url_del_banner)
 
-💻 Estudiante de Bachillerato en el área de Informática  
-🌱 Actualmente aprendiendo sobre desarrollo de aplicaciones de escritorio  
-📚 Me interesa mucho el diseño y la administración de bases de datos
+# 👾 Heather Rubí's Retro Space 👾
 
-### Habilidades
-- **Lenguajes**: HTML, CSS, JavaScript, C#
-- **Bases de Datos**: SQLserver
-- **Herramientas**: SQLserver, Visual Studio Code, Visual Studio, Access, Excel, Word etc.
+**Mood**: 😎 Ready to code!  
+**Listening to**: Synthwave 🎶  
 
+---
 
-![Snake animation](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?)
+| 🖤 **Interests**         | 📫 **Contact**                            |
+|--------------------------|-------------------------------------------|
+| - Coding 💻              | - [GitHub](https://github.com/tu_usuario) |
+| - Reading 📚             | - [LinkedIn](https://linkedin.com/in/tu_usuario) |
+| - Retro games 🎮         |                                           |
+
+### 🌌 About Me
+Aspiring developer with a passion for databases, design, and all things retro. Always learning and growing!
+
+---
+
+### 🌠 My Space Friends
+- [Mi Primer Sitio Web](https://github.com/tu_usuario/misitio)
+- [Sistema de Inventario](https://github.com/tu_usuario/inventario)
+
+---
+
+![Badge](https://img.shields.io/badge/-Synthwave%20Fan-pink?style=flat-square)
+![Badge](https://img.shields.io/badge/-Database%20Lover-blue?style=flat-square)
+
+╔═╗┬ ┬┌─┐┬─┐┌┬┐┌─┐┬ ┬  
+╚═╗├─┤├┤ ├┬┘ │ │ ││ │  
+╚═╝┴ ┴└─┘┴└─ ┴ └─┘└─┘  
 
   
 
